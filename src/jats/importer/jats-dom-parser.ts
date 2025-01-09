@@ -542,7 +542,7 @@ export class JATSDOMParser {
     {
       tag: 'caption',
       node: 'figcaption',
-      context: 'figure/',
+      context: 'figure/|embed/',
     },
     {
       tag: 'caption',
